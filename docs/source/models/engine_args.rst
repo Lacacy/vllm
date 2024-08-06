@@ -6,7 +6,7 @@ Engine Arguments
 Below, you can find an explanation of every engine argument for vLLM:
 
 .. argparse::
-    :module: vllm.engine.arg_utils
+    :module: vllm.engine.
     :func: _engine_args_parser
     :prog: vllm serve
     :nodefaultconst:
